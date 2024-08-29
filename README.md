@@ -37,7 +37,7 @@ This project is a simple Library Management System (LMS) built using Python. The
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/naren004/Libriary_Management_System>
    ```
 2. Ensure you have `list_of_books.txt` in the same directory as the script.
 3. Run the script:
